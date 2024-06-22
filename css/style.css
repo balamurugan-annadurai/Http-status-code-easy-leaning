@@ -6,11 +6,6 @@
     box-sizing: border-box;
     font-family: "Nunito Sans", sans-serif\;
 }
-
-.test {
-    border: 2px solid;
-}
-
 .container {
     height: 100%;
     display: flex;
