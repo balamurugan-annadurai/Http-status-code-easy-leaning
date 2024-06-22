@@ -7,7 +7,7 @@ Welcome to the **HTTP Response Status Code Visualizer** 📊 webpage! This educa
 - **Instant Visual Feedback**: Enter any HTTP response status code to see a corresponding image that explains its purpose and significance.
 - **Educational Tool**: Ideal for developers, students, and anyone learning about web protocols and status codes.
 - **Responsive Design**: Built with HTML, CSS, JavaScript, and Bootstrap for a seamless experience on desktops, tablets, and smartphones 📱.
--  
+   
 ## Technologies Used
 
 - **HTML5** 📄
